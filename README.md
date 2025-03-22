@@ -51,8 +51,7 @@ This project demonstrates a **production-grade data pipeline** on Azure, followi
 4. **Interview-Focused Scenarios**:  
    - Solved questions like *“Blob vs. Data Lake?”*, *“Explain ADF triggers”*, and *“Dynamic vs. Static Pipelines”*.
 
-5.**Access Controls & Security**:
-
+5. **Access Controls & Security**:
    - **Service Principals**: Created an Azure AD app to grant Databricks secure access to Data Lake (using Storage Blob Contributor role).
    - **Managed Identity**: Enabled Synapse Analytics’ system-managed identity to access Data Lake without exposing credentials.
    - **RBAC**: Applied role-based access controls (e.g., LRS redundancy, private endpoints for sensitive data).
