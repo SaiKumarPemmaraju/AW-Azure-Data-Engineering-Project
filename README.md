@@ -48,7 +48,7 @@ This project demonstrates a **production-grade data pipeline** on Azure, followi
    - Used **locally redundant storage (LRS)** for non-critical data.  
    - Auto-terminating Databricks clusters to save costs.  
 
-4. **Interview-Focused Scenarios**:  
+4. **Real-time Focused Scenarios**:  
    - Solved questions like *“Blob vs. Data Lake?”*, *“Explain ADF triggers”*, and *“Dynamic vs. Static Pipelines”*.
 
 5. **Access Controls & Security**:
@@ -75,7 +75,9 @@ This project demonstrates a **production-grade data pipeline** on Azure, followi
    - Joined fact/dimension tables (e.g., `Sales` ↔ `Products`).  
 
 5. **Connect to Power BI**:  
-   - Built dashboards to visualize sales trends, product performance, etc.  
+   - Built dashboards to visualize sales trends, product performance, etc.
+   <img src="https://github.com/user-attachments/assets/0ab36012-cde5-441d-8847-8370b9287a5e" width="450" height="330">
+
 
 ---
 
@@ -85,7 +87,7 @@ This project demonstrates a **production-grade data pipeline** on Azure, followi
   - Mastered Spark for big data transformations.  
   - Designed a cloud data warehouse in Synapse.  
 
-- **Interview Impact**:  
+- **Impact**:  
   - Discussed **real-time use cases** (e.g., handling incremental loads, cost optimization).  
   - Explained architecture tradeoffs (e.g., why Medallion over a single-layer lake?).  
 
